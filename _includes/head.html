@@ -10,6 +10,9 @@
   {% endif %}
   <meta name="author" content="{{ site.author.name }}">
 
+  <!-- don't crawl me please -->
+  <meta name="robots" content="noindex" />
+
   <title>
     {% if page.title != "index" %}
         {{ site.title }}|{{ page.title }}

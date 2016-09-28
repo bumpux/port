@@ -6,6 +6,10 @@
   <meta content="{{ site.description }}" name="description">
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author.name }}">
+
+    <!-- don't crawl me please -->
+  <meta name="robots" content="noindex" />
+  
   <title>{{ site.title }}</title>
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ "static/img/favicon.ico" | prepend: site.baseurl }}">
