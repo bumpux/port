@@ -5,7 +5,7 @@ title: "Jalpc"
 description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
-url: "bumpux.github.io"
+url: "https://bumpux.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
@@ -65,7 +65,7 @@ languages:
     flag: 'static/img/flags/China.png'
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: 'https://bumpux.github.io/static/img/blog'
 
 # donate
 donate:
