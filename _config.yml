@@ -64,6 +64,11 @@ languages:
   - locale: 'zh'
     flag: 'static/img/flags/China.png'
 
+# Collections
+collections: 
+  - slides 
+
+
 # blog img path
 img_path: 'https://bumpux.github.io/static/img/blog'
 
