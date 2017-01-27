@@ -1,3 +1,21 @@
+—gb 
+
+ - put this together thinking to use it for promo. 
+ - runs as a sub-site on github pages at https://bumpux.github.io/port/
+ - slideshow at ./slides/  (https://bumpux.github.io/port/slides/)
+
+ workflow:
+
+  - run locally: `jekyll serve --watch`
+  - publish by pushing the repo to the master on github
+      - as set up in Sourcetree
+
+
+
+
+- - - original readme
+
+
 # Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/Jack614/jalpc_jekyll_theme)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
